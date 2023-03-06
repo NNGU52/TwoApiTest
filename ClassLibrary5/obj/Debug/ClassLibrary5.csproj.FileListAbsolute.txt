@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\obj\Debug\ClassLibrary5.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\RestSharp.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\bin\Debug\RestSharp.xml
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CopyComplete

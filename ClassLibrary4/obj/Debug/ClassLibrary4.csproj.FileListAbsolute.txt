@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\bin\Debug\RestSharp.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\bin\Debug\RestSharp.xml
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\obj\Debug\ClassLibrary4.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CopyComplete
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\Acer\Documents\Visual Studio 2019\Project\TwoApiTest\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
